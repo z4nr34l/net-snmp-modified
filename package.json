@@ -1,6 +1,6 @@
 {
   "name": "net-snmp-modified",
-  "version": "2022.0.1",
+  "version": "2022.0.2",
   "description": "JavaScript implementation of the Simple Network Management Protocol (SNMP)",
   "main": "index.js",
   "dependencies": {
@@ -33,6 +33,7 @@
     "type": "git",
     "url": "git://github.com/Z4NR34L-Software/net-snmp-modified.git"
   },
+  "homepage": "https://docs.zanreal.pl/",
   "keywords": [
     "snmp",
     "snmpv1",
@@ -45,7 +46,7 @@
     "monitor",
     "monitoring"
   ],
-  "author": "Mark Abrahams <mark@abrahams.co.nz>",
+  "author": "Mateusz \"Z4NR34L\" Janota <software@zanreal.pl> (https://www.zanreal.pl/)",
   "license": "MIT",
     "scripts": {
       "lint": "./node_modules/.bin/eslint . ./**/*.js"
